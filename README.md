@@ -54,7 +54,9 @@ The task creator includes options to select a due date, priority, notes, and ass
 
 Clicking the settings project in the task prioritization page redirects users to a settings page, allowing users to add and remove group members, change the background image, and change the theme. 
 
+![homepage](images/project-settings-members.jpg)
 
+![homepage](images/project-settings-views.jpg)
 
 Clicking the home will redirect users to a homepage. This is a central dashboard where users can create access and manage their group projects. The homepage will display a user's profile picture and username, along with a list of their existing projects. 
 
