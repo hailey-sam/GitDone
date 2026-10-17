@@ -18,11 +18,11 @@ A smart to-do app that organizes group project tasks based on deadlines, difficu
 
 Making group project experiences for university students more productive and enjoyable.
 
-## Problem Statement:
+## Problem Statement
 
 Group projects are a common part of academic life. However, when working in a group, members often struggle to determine which tasks to prioritize, how much time to allocate, and how to balance responsibilities. Existing group management tools allow users to track tasks and deadlines, but they often rely on users to manually decide next steps and do not track the tasks' progress. As a result, teams may experience procrastination, uneven workloads, missed deadlines, and stress. How can a group project task organizer help teams break down a project into manageable tasks, prioritize work based on deadlines, importance, and difficulty, and coordinate progress in a way that makes group projects more productive and enjoyable?
 
-## Problem:
+## Problem
 
 Group projects are a prevalent and significant component of university coursework. Aside from gaining subject-specific knowledge, working in a group can foster active learning, boost creativity and engagement, and provide opportunities for interpersonal development. These all help prepare students for real-world situations, where they might be required to effectively collaborate with industry professionals in the workplace (Wang et. al, 2025).
 
